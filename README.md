@@ -1,2 +1,2 @@
-# Practica1---Web-Dev
+# Practica1
 My first website
